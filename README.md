@@ -18,3 +18,9 @@ Melakukan uji coba untuk menghasilkan perintah dasar python pada setiap device d
 <jumlah prosesor> -host <daftar host> python3 test.py’.
 ![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Numerik-/assets/150004277/917f32c6-04e7-4390-b98c-ed7758f13d69)
 
+## Eliminasi Gaussian 
+![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Numerik-/assets/150004277/46a8574c-47e3-4500-a51d-ceede38fc869)
+![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Numerik-/assets/150004277/64159ec4-aeb1-40d8-9716-6cd27716c955)
+
+## Newton – Raphson
+![image](https://github.com/ekrtna/Eka-Ratna-Anindita-Numerik-/assets/150004277/0b0c5b7f-b487-40bb-9e36-c11898342ce3)
